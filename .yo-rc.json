@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.cloud9ers.clouddrop",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "CloudDrop",
+    "packageName": "com.cloud9ers.clouddrop",
+    "packageFolder": "com/cloud9ers/clouddrop",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2YwNzY2ZDNjNDBjOTdiZjQ5MjBhNTg0MGE1OGFmNWRlMmNmMjg2ZjExYjcxOGFjN2NhYmVmMzZjOTI0NjYyOTFiOGM2ZjNkMzM4ZTc5OWVmZDhiZDNmZWZhMDcyNDBiMWE0ZjQ3Nzg5ZjY1OTE5MDlmM2RkZjg2YmJkNmFkMGM=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly"
+    ]
+  }
+}
